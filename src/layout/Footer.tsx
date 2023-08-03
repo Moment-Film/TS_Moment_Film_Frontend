@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-function Footer() {
+const Footer:React.FC = () => {
   return (
     <FooterBox>Footer</FooterBox>
   )
